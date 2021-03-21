@@ -1,0 +1,24 @@
+	-----------------
+	***INSTRUCTION***
+	-----------------
+
+Please add JDatePicker 1.3.2 to your java file
+
+path is C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\
+
+copy & paste the jdatepicker_1.3.2.jar file to the location above
+
+AND,
+
+PLEASE USE NETBEANS AND **IMPORT** THE PROJECT FOR COMPILATIONS.
+
+------------------------------------------------------------------
+
+Admin username & password: admin
+
+Main class: PortLegoGuy.java
+
+Path: PortLegoGuy\src\PortLegoGuy.java
+
+------------------------------------------------------------------
+

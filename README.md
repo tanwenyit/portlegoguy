@@ -1,2 +1,2 @@
 # portlegoguy
-Simple Flight Booking System 
+This Simple Flight Booking System is built under Apache Netbeans IDE environment
